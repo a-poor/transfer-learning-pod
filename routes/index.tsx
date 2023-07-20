@@ -30,7 +30,7 @@ export default function Home() {
         <link rel="canonical" href="https://transferlearningpod.com"/>
         
         <script defer data-domain="transferlearningpod.com" src="https://plausible.io/js/script.js"></script>
-        <script>window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }</script>
+          {/* <script>window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }</script> */}
       </Head>
 
       <div>
