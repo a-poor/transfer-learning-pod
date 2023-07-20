@@ -15,22 +15,21 @@ export default function Home() {
         <title>Transfer Learning Podcast</title>
         <link rel="stylesheet" href={asset("/index.css")} />
 
-        <meta charset="utf-8/">
-        <meta name="viewport" content="width=device-width, initial-scale=1"/>
-        <meta name="author" content="Austin Poor"/>
-        <meta name="robots" content="index, follow"/>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="author" content="Austin Poor" />
+        <meta name="robots" content="index, follow" />
         
         <title>Austin Poor's Personal Website</title>
-        <meta name="description" content="An experimental podcast that covers tech and AI news using generative AI tools like LLMs and text-to-speech created by Austin Poor."/>
-        <meta property="og:type" content="website"/>
-        <meta property="og:title" content="The Transfer Learning Podcast Website"/>
-        <meta property="og:url" content="https://transferlearningpod.com/">
-        <meta property="og:image" content="https://transferlearningpod.com/images/propic-square-md.png"/>
-        <meta property="og:description" content="An experimental podcast that covers tech and AI news using generative AI tools like LLMs and text-to-speech created by Austin Poor."/>
-        <link rel="canonical" href="https://transferlearningpod.com"/>
+        <meta name="description" content="An experimental podcast that covers tech and AI news using generative AI tools like LLMs and text-to-speech created by Austin Poor." />
+        <meta property="og:type" content="website" />
+        <meta property="og:title" content="The Transfer Learning Podcast Website" />
+        <meta property="og:url" content="https://transferlearningpod.com/" />
+        <meta property="og:image" content="https://transferlearningpod.com/images/propic-square-md.png" />
+        <meta property="og:description" content="An experimental podcast that covers tech and AI news using generative AI tools like LLMs and text-to-speech created by Austin Poor." />
+        <link rel="canonical" href="https://transferlearningpod.com" />
         
         <script defer data-domain="transferlearningpod.com" src="https://plausible.io/js/script.js"></script>
-          {/* <script>window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }</script> */}
       </Head>
 
       <div>
